@@ -1,0 +1,112 @@
+{
+  "type": "episode",
+  "has_hd": 1,
+  "isNSRE": 0,
+  "ancestor": [
+    "videos",
+    "80018294"
+  ],
+  "seriesId": 80065733,
+  "videoURL": "https://www.netflix.com/watch/80065737",
+  "lang_subs": [
+    {
+      "isoCode": "fr-fra",
+      "bcp47Code": "fr",
+      "englishName": "French"
+    },
+    {
+      "isoCode": "es-spa",
+      "bcp47Code": "es",
+      "englishName": "Spanish"
+    },
+    {
+      "isoCode": "en-eng",
+      "bcp47Code": "en",
+      "englishName": "English"
+    },
+    {
+      "isoCode": "zh-zho",
+      "bcp47Code": "zh-Hans",
+      "englishName": "Simplified Chinese"
+    },
+    {
+      "isoCode": "zh-zho",
+      "bcp47Code": "zh-Hant",
+      "englishName": "Traditional Chinese"
+    }
+  ],
+  "isPlayable": 1,
+  "lang_audio": [
+    {
+      "isoCode": "es-spa",
+      "bcp47Code": "es",
+      "languageName": "Spanish"
+    },
+    {
+      "isoCode": "de-deu",
+      "bcp47Code": "de",
+      "languageName": "German"
+    },
+    {
+      "isoCode": "it-ita",
+      "bcp47Code": "it",
+      "languageName": "Italian"
+    },
+    {
+      "isoCode": "es-spa",
+      "bcp47Code": "es",
+      "languageName": "Spanish"
+    },
+    {
+      "isoCode": "fr-fra",
+      "bcp47Code": "fr",
+      "languageName": "French"
+    },
+    {
+      "isoCode": "en-eng",
+      "bcp47Code": "en",
+      "languageName": "English - Audio Description"
+    },
+    {
+      "isoCode": "en-eng",
+      "bcp47Code": "en",
+      "languageName": "English"
+    },
+    {
+      "isoCode": "de-deu",
+      "bcp47Code": "de",
+      "languageName": "German"
+    },
+    {
+      "isoCode": "en-eng",
+      "bcp47Code": "en",
+      "languageName": "English - Audio Description"
+    },
+    {
+      "isoCode": "it-ita",
+      "bcp47Code": "it",
+      "languageName": "Italian"
+    },
+    {
+      "isoCode": "fr-fra",
+      "bcp47Code": "fr",
+      "languageName": "French"
+    },
+    {
+      "isoCode": "en-eng",
+      "bcp47Code": "en",
+      "languageName": "English"
+    }
+  ],
+  "rating_alt": "110",
+  "is_original": 1,
+  "non_playable": 0,
+  "episodeBadges": [
+    "NONE"
+  ],
+  "evidentual_id": 80065737,
+  "maturityBoard": "US TV",
+  "numberOfEpisodes": 13,
+  "release_year_original": "2016",
+  "availabilityDateMessaging": ""
+}
