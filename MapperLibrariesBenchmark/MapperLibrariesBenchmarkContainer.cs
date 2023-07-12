@@ -84,7 +84,7 @@ namespace MapperLibrariesBenchmark
         }
 
         [Benchmark]
-        public void Mapster()
+        public void MapsterBenchmark()
         {
             NetflixEpisodeDto netflixEpisodeDto = ConvertFromJson();
             netflixEpisodeDto.Adapt<NetflixEpisode>();
@@ -98,14 +98,14 @@ namespace MapperLibrariesBenchmark
         }
 
         [Benchmark]
-        public void ValueInjecterMapper()
+        public void ValueInjecterMapperBenchmark()
         {
             NetflixEpisodeDto netflixEpisodeDto = ConvertFromJson();
             NetflixEpisode netflixEpisode = Omu.ValueInjecter.Mapper.Map<NetflixEpisode>(netflixEpisodeDto);
         }
 
         [Benchmark]
-        public void FastMapperBenchmar()
+        public void FastMapperBenchmark()
         {
             NetflixEpisodeDto netflixEpisodeDto = ConvertFromJson();
             NetflixEpisode netflixEpisode = FastMapper.NetCore.TypeAdapter.Adapt<NetflixEpisodeDto, NetflixEpisode>(netflixEpisodeDto);
